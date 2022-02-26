@@ -1,0 +1,6 @@
+// Get All The Farms
+GET http://localhost:9090/v1/farms
+
+###
+// Find By Id
+GET http://localhost:9090/v1/farms/4362
